@@ -384,11 +384,11 @@
   <string name="bluetooth_quick_toggle_summary">Turn on Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Rename</string>
-  <string name="bluetooth_rename_device">Rename phone</string>
+  <string name="bluetooth_rename_device">މި ފޯނުގެ ނަން ބަދަލުކުރޭ</string>
   <string name="bluetooth_scan_for_devices">Scan for devices</string>
   <string name="bluetooth_search_for_devices">Search for devices</string>
-  <string name="bluetooth_searching_for_devices">Searching…</string>
-  <string name="bluetooth_settings">Bluetooth</string>
+  <string name="bluetooth_searching_for_devices">ހޯދަނީ...</string>
+  <string name="bluetooth_settings">ނޫލިޔު</string>
   <string name="bluetooth_settings_summary">Manage connections, set device name &amp; discoverability</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Show received files</string>
